@@ -53,10 +53,10 @@ const ActionProvider = ActionProviderCreator({
 + </Provider>
 ```
 
-myComponent.js 
+MyComponent.js 
 --------------
 ```diff
-+  static contextTypes = {
++  MyComponent.contextTypes = {
 +    actions: PropTypes.object
 +  };
 ```
