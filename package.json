@@ -1,6 +1,6 @@
 {
   "name": "react-redux-action-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Denes Pal <dsdenes@gmail.com>",
   "description": "Serves this.context.actions bound to Redux store",
   "main": "lib/index.js",
